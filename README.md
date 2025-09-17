@@ -9,7 +9,7 @@ The project demonstrates fundamental networking concepts such as <b>socket progr
 <br />
 <br />
 
-<b>Course outcomes and skills</b>  
+<b>Course Outcomes & Skills:</b>  
 This course provided an in-depth understanding of computer networking principles, protocols, and security concepts, paired with hands-on experience simulating real-world networks. Key technical skills and knowledge gained include:  
 - Comprehensive understanding of the <b>OSI and TCP/IP models</b> and their layers, enabling analysis and design of scalable networks  
 - <b>Routing and switching</b> techniques, including subnetting, IP addressing, and packet forwarding, critical for network configuration and troubleshooting  
@@ -18,7 +18,7 @@ This course provided an in-depth understanding of computer networking principles
 - Fundamentals of <b>network security</b>, including firewalls, VPNs, and encryption methods, preparing for secure system deployment  
 - Applied knowledge in a hands-on project: developed a <b>multiplayer Tic Tac Toe game</b> over a network using <b>Python sockets</b>, demonstrating client-server architecture, real-time message passing, synchronization, and basic security considerations  
 <h2>Presentation</h2>
-Check the slides here: (https://docs.google.com/presentation/d/1_C7P5IhDVOE0kam60BGKmV1n3ISem1uU/edit?usp=sharing&ouid=111000968218730640303&rtpof=true&sd=true)  
+📊 Check the slides here: (https://docs.google.com/presentation/d/1_C7P5IhDVOE0kam60BGKmV1n3ISem1uU/edit?usp=sharing&ouid=111000968218730640303&rtpof=true&sd=true)  
 
 <h2>Languages and Utilities Used</h2>
 
