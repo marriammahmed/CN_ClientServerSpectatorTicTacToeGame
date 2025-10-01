@@ -23,12 +23,9 @@ This course provided an in-depth understanding of computer networking principles
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> (with socket programming)  
-- <b>TCP/IP Protocols</b>  
+- <b>TCP/IP Protocols</b>
+- <b>Localhost / LAN environment</b> 
 
-<h2>Environments Used</h2>
-
-- <b>Localhost / LAN environment</b>  
-- <b>Python 3.13</b>  
 
 <h2>Program walk-through:</h2>
 
